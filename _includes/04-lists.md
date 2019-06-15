@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. food!
+2. books
+3. Netflix
+4. swimming/water polo
+5. more food!
